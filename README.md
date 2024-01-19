@@ -18,6 +18,7 @@ Full Stack Developer
     <img src="./assets/react-icon.svg" alt="vscode" width="40" height="40"/>
     <img src="./assets/vscode-logo.png" alt="vscode" width="40" height="40"/>
     <img src="./assets/figma-logo.svg" alt="figma" width="40" height="40"/>
-  
+</div>
+</div>
 </div>
 
