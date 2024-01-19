@@ -8,7 +8,7 @@ Full Stack Developer
 
 <div style="display: flex; flex-direction: column;">
 <div>
-  <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaratSergio&layout=compact&theme=react">
+  <img align="left" style="margin-bottom: 10px; alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaratSergio&layout=compact&theme=react">
 </div>
    
 <div align="start" style="margin: 20px 0;">
