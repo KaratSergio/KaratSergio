@@ -12,8 +12,8 @@ Full Stack Developer
   <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaratSergio&layout=compact&theme=react">
 </div>
 
-<div align="start" style="margin-top: 400px;">
-    <img src="./assets/git-logo.svg" alt="git" width="40" height="40"/>
+<div align="start" style="margin-top: 10px;">
+    <img style="margin-top: 10px; src="./assets/git-logo.svg" alt="git" width="40" height="40"/>
     <img src="./assets/html5-logo.svg" alt="html5" width="40" height="40"/>
     <img src="./assets/css3-logo.svg" alt="css3" width="40" height="40"/>
     <img src="./assets/js-logo.png" alt="javascript" width="40" height="40"/>
