@@ -20,5 +20,4 @@ Full Stack Developer
     <img src="./assets/figma-logo.svg" alt="figma" width="40" height="40"/>
 </div>
 </div>
-<p></p>
-<div align="center" style="padding: 20px 0;">
+
