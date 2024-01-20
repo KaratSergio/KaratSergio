@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Sergio 
 Full Stack Developer
-<div style="display: flex; align-items: center;">
+<div style="display: flex; flex-direction: row; align-items: center;">
 <!-- GitHub Stats -->
 <div>
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KaratSergio&show_icons=true&theme=react">
