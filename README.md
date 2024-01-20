@@ -2,9 +2,9 @@
 Full Stack Developer
 
   <!-- GitHub Stats -->
-  <div style="margin-right: 20px;">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KaratSergio&show_icons=true&theme=react">
-  </div>
+ <div>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KaratSergio&show_icons=true&theme=react">
+</div>
 
   <div style="display: flex; flex-wrap: wrap;">
   <div style="margin-right: 20px; flex-shrink: 0;">
