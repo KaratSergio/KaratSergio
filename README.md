@@ -6,6 +6,8 @@ Full Stack Developer
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KaratSergio&show_icons=true&theme=react">
 </div>
 
+ <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
+
 <!-- Top Languages -->
 <div>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaratSergio&layout=compact&theme=react">
@@ -22,3 +24,4 @@ Full Stack Developer
   <img src="./assets/figma-logo.svg" alt="figma" width="40" height="40"/>
 </div>
 
+</div>
