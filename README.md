@@ -9,7 +9,7 @@ Full Stack Developer
   </div>
 
   <!-- Top Languages and Icons -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; align-items: flex-start;">
 
   <!-- Top Languages -->
   <div style="margin-bottom: 20px;">
