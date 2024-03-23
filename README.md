@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Sergio 
-Full Stack Developer
+Full-stack developer.
 
   <!-- GitHub Stats -->
  <div>
