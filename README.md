@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Sergio 
 Full-stack developer.
-
+**Main skills**: `TypeScript` `Node.js` `React.js` `Redux`
   <!-- GitHub Stats -->
  <div>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KaratSergio&show_icons=true&theme=react">
