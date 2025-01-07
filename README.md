@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Sergio 
 Full-stack developer.
 
-**Main skills**: `TypeScript` `Node.js` `React.js` `Redux` `Tailwind CSS` 
+**Main skills**: `TypeScript` `Next.js` `React.js` `Node.js` `Nest.js` `Redux` `Tailwind CSS` 
 
   <!-- GitHub Stats -->
  <div>
