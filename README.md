@@ -2,9 +2,10 @@
 Web developer.
 
  `Next.js` `NestJS` `PostgreSQL` `JSON`
-
+<div style="display: flex; flex-wrap: wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript Logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JSON (JS-style)" />
+</div>
   <!-- GitHub Stats -->
  <div>
   <!-- <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KaratSergio&show_icons=true&theme=react"> -->
